@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently upskilling to **become a software engineer**.
 
-- 🌱 I'm diving deep DSA to upgrade by problem solving and analytical skills, primarily using **java**.
+- 🌱 I'm diving deep DSA to upgrade by problem solving and analytical skills, primarily using **Java**.
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/home)!.
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Jithin-b-p)!.
   
-- 📖 Current read: [**Essential typescript by Adam Freeman**](https://www.manning.com/books/essential-typescript-5-third-edition)!.
+- 📖 Current read: [**Essential Typescript by Adam Freeman**](https://www.manning.com/books/essential-typescript-5-third-edition)!.
 
 - 📫 How to reach me: **jithinbp007@gmail.com**.
 
@@ -28,6 +28,17 @@
 - 🧑‍💻 Solved over 340+ problems on [**Leetcode**](https://leetcode.com/jithinbp/)!.
 
 #
+<h2 align="center">📫 Connect with me</h2>
+
+<div align = "center">
+    
+[![Gmail: Jithin B P](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:jithinbp007@gmail.com)&nbsp;
+[![FrontendMentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/Jithin-b-p)](https://www.frontendmentor.io/profile/Jithin-b-p)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jithinbp/)&nbsp;
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/b_p_jithin)&nbsp;
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Jithin-b-p) 
+  
+</div>
 
 <br>
 
@@ -46,18 +57,26 @@
 
 <br>
 <h2 align="center"> ✍️ Random Dev Quote </h2>
-
+<div align = "center">
+    
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
+
 <br>
-
 <h2 align="center">🔝 Top Contributed Repo </h2>
-
+<div align = "center">
+    
 ![](https://github-contributor-stats.vercel.app/api?username=jithin-b-p&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+</div>
 ---
 
+<div align = "center">
+    
 [![](https://visitcount.itsvg.in/api?id=jithin-b-p&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 <!--
 **Jithin-b-p/Jithin-b-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
