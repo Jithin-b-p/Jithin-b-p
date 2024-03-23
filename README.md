@@ -8,9 +8,9 @@
 
 - 🌱 I'm diving deep DSA to upgrade by problem solving and analytical skills, primarily using **java**.
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**]([https://www.frontendmentor.io/profile/MelvinAguilar](https://www.frontendmentor.io/home))!.
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/home)!.
   
-- 📖 Current read: [**Essential typescript by Adam Freeman**]([https://www.manning.com/books/essential-typescript-5-third-edition])!.
+- 📖 Current read: [**Essential typescript by Adam Freeman**](https://www.manning.com/books/essential-typescript-5-third-edition)!.
 
 - 📫 How to reach me: **jithinbp007@gmail.com**.
 
@@ -25,7 +25,7 @@
 
 - 🎉 I have successfully completed over 20 projects on Frontend Mentor and shared my code with others.
 - 🤝 Sharing feedbacks and suggestions on projects in Frontend Mentor website.
-- 🧑‍💻 Solved over 340+ problems on [**Leetcode**]([https://leetcode.com/jithinbp/])!.
+- 🧑‍💻 Solved over 340+ problems on [**Leetcode**](https://leetcode.com/jithinbp/)!.
 
 #
 
