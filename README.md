@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently upskilling to **become a software engineer**.
 
-- 🌱 I'm diving deep DSA to upgrade by problem solving and analytical skills, primarily using **Java**.
+- 🌱To improve my problem-solving and analytical skills, I'm undertaking a deep dive into **Data Structures and Algorithms** using **Javascript** as my primary programming language.
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Jithin-b-p)!.
   
