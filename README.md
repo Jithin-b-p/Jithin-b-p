@@ -79,7 +79,7 @@
 <h2 align="center">📊 Github Stats</h2>
 <div align = "center">
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=jithin-b-p&theme=dark&hide_border=false)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=jithin-b-p&theme=dark&hide_border=false) <br>
 ![most_used_language](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin-b-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
