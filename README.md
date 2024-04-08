@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently upskilling to **become a full-stack developer**.
 
-- 🌱To improve my problem-solving and analytical skills, I'm undertaking a deep dive into **Data Structures and Algorithms** using **Javascript** as my primary programming language.
+- 🌱 To improve my problem-solving and analytical skills, I'm undertaking a deep dive into **Data Structures and Algorithms** using **Javascript** as my primary programming language.
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Jithin-b-p)!.
   
-- 📖 Current read: [**Essential Typescript by Adam Freeman**](https://www.manning.com/books/essential-typescript-5-third-edition)!.
+- 📖 Current reads: [**Essential Typescript by Adam Freeman**](https://www.manning.com/books/essential-typescript-5-third-edition)!, [**Fluent React by Tejas Kumar**](https://www.oreilly.com/library/view/fluent-react/9781098138707/)!.
 
 - 📫 How to reach me: **jithinbp007@gmail.com**.
 
