@@ -46,7 +46,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Jithin-b-p">
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,redux,materialui,git,github" />
   </a>
 </p>
