@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/Jithin-b-p">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,redux,materialui,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,redux,materialui,nodejs,express,appwrite,mongodb,postgres,git,github" />
   </a>
 </p>
 
