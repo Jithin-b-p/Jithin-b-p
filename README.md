@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently upskilling to **become a full-stack developr**.
+- 🔭 I’m currently upskilling to **become a full-stack developer**.
 
 - 🌱 To improve my problem-solving and analytical skills, I'm undertaking a deep dive into **Data Structures and Algorithms** using **Java** as my primary programming language.
 
