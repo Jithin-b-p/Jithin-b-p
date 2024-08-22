@@ -25,7 +25,7 @@
 
 - 🎉 I have successfully completed over 20 projects on Frontend Mentor and shared my code with others.
 - 🤝 Sharing feedbacks and suggestions on projects in Frontend Mentor website.
-- 🧑‍💻 Solved over 340+ problems on [**Leetcode**](https://leetcode.com/jithinbp/)!.
+- 🧑‍💻 Solved over 400+ problems on [**Leetcode**](https://leetcode.com/jithinbp/)!.
 
 <br>
 
