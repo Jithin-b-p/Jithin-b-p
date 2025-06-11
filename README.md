@@ -10,7 +10,7 @@
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Jithin-b-p)!.
   
-- 📖 Current reads: [**Essential Typescript by Adam Freeman**](https://www.manning.com/books/essential-typescript-5-third-edition)!, [**Fluent React by Tejas Kumar**](https://www.oreilly.com/library/view/fluent-react/9781098138707/)!.
+- 📖 Current reads: [**Let's Go by Alex Edwards**]([https://www.manning.com/books/essential-typescript-5-third-edition](https://lets-go.alexedwards.net/))!.
 
 - 📫 How to reach me: **jithinbp007@gmail.com**.
 
