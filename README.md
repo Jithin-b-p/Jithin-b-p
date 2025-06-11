@@ -10,7 +10,7 @@
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Jithin-b-p)!.
   
-- 📖 Current reads: [**Let's Go by Alex Edwards**]([https://www.manning.com/books/essential-typescript-5-third-edition](https://lets-go.alexedwards.net/)!.
+- 📖 Current reads: [**Let's Go by Alex Edwards**](https://lets-go.alexedwards.net/)!.
 
 - 📫 How to reach me: **jithinbp007@gmail.com**.
 
